@@ -1,0 +1,13 @@
+@@||acsechocaptiveportal.com^$important
+@@||amazon.com^$important
+@@||t.co^$important
+@@||cdn.privacy-mgmt.com^$important
+@@||vscode-sync.trafficmanager.net^$important
+@@||alive.github.com^$important
+@@||news.google.com^$important
+@@||adservice.google.*^
+@@||www.googleadservices.com^
+@@||aliexpress.com^$important
+@@||infomoney.com.br^$important
+@@||app.launchdarkly.com^$important
+@@||cdn.segment.com^$important
