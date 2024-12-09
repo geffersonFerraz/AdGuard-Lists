@@ -11,3 +11,4 @@
 @@||infomoney.com.br^$important
 @@||app.launchdarkly.com^$important
 @@||cdn.segment.com^$important
+@@||dell.com^$important
