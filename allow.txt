@@ -12,3 +12,4 @@
 @@||app.launchdarkly.com^$important
 @@||cdn.segment.com^$important
 @@||dell.com^$important
+@@||githubcopilot.com^$important
