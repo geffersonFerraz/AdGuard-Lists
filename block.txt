@@ -26,3 +26,4 @@
 ||dev.sa.ezviz7.com^$important
 ||a.root-servers.net^$important
 ||thundera-external-mgc.jaxyendy.com^$important
+||applicationinsights.azure.com^$important
