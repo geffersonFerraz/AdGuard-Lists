@@ -13,3 +13,4 @@
 @@||cdn.segment.com^$important
 @@||dell.com^$important
 @@||githubcopilot.com^$important
+@@||gruposancon.com.br^$important
