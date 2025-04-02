@@ -29,3 +29,4 @@
 ||applicationinsights.azure.com^$important
 ||tvpnlogopus.samsungcloud.tv^$important
 ||facebook.com^
+.(bet|casino|gamble|poker|wager)..([a-z]{2,6})$
