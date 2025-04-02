@@ -27,3 +27,5 @@
 ||a.root-servers.net^$important
 ||thundera-external-mgc.jaxyendy.com^$important
 ||applicationinsights.azure.com^$important
+||tvpnlogopus.samsungcloud.tv^$important
+||facebook.com^
