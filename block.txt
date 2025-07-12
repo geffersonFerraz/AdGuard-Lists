@@ -31,3 +31,5 @@
 ||facebook.com^
 .(bet|casino|gamble|poker|wager)..([a-z]{2,6})$
 ||bet.br^$important
+||almaden.app^$important
+||automatos.com^$important
