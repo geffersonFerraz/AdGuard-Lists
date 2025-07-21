@@ -17,3 +17,4 @@
 @@||spotify.com^
 @@||icons8.com^
 @@||cnnbrasil.com.br^
+@@||discomax.com^$important
