@@ -18,3 +18,5 @@
 @@||icons8.com^
 @@||cnnbrasil.com.br^
 @@||discomax.com^$important
+@@||live-video.net^$important
+@@||global-contribute.live-video.net^$important
