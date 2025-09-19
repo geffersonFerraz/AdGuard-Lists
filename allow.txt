@@ -21,3 +21,4 @@
 @@||live-video.net^$important
 @@||global-contribute.live-video.net^$important
 @@||susercontent.com^$important
+@@||arenabreakout.com^$important
