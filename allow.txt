@@ -22,3 +22,4 @@
 @@||global-contribute.live-video.net^$important
 @@||susercontent.com^$important
 @@||arenabreakout.com^$important
+@@||arenabreakoutinfinite.com^$important
